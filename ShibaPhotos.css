@@ -13,7 +13,7 @@ transform: scale(1.1);
 
 }
 
-p {
+.title {
 
 font-size: 50px;
 font-family: 'Caveat Brush', cursive;
@@ -31,7 +31,23 @@ float: right;
 height: 250px;
 width: 220px;
 color: #F28D00;
-
+margin-bottom: -40px;
 
 }
 
+.credits {
+
+font-family: 'Caveat Brush', cursive;
+font-size: 20px;
+float: left;
+margin-left: 90%;
+
+}
+
+a {
+
+
+color: #2974C4;
+
+
+}
